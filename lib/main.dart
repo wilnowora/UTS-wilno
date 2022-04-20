@@ -160,7 +160,7 @@ class _baruState extends State<baru> {
                       style:
                           TextStyle(color: Color.fromARGB(255, 216, 212, 212))),
                   SizedBox(width: 28),
-                  Text("KARATE",
+                  Text("SEPAK BOLA",
                       style:
                           TextStyle(color: Color.fromARGB(255, 216, 212, 212)))
                 ],
